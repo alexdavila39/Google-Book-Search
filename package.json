@@ -1,0 +1,22 @@
+{
+  "name": "google-book-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdavila39/Google-Book-Search.git"
+  },
+  "author": "Alejandro Davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexdavila39/Google-Book-Search/issues"
+  },
+  "homepage": "https://github.com/alexdavila39/Google-Book-Search#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
